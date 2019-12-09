@@ -102,3 +102,8 @@
 .footer {
   background-color: white;
 }
+
+.bfooter {
+  padding-left: 800px;
+  padding-top: 40px;
+}
