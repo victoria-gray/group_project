@@ -1,13 +1,4 @@
-.masthead {
-  height: 100vh;
-  min-height: 500px;
-  background-image: url(../images/brunch.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-/* .food h1 {
+.food h1 {
   font-size: 2em;
   text-align: center;
   text-decoration: underline;
@@ -106,4 +97,4 @@
 .bfooter {
   padding-left: 800px;
   padding-top: 40px;
-} */
+}
