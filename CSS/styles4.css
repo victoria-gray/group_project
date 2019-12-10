@@ -1,4 +1,4 @@
-.food h1 {
+.drinks h1 {
   font-size: 2em;
   text-align: center;
   text-decoration: underline;
@@ -10,7 +10,7 @@
 
 
 
-.food h2 {
+.drinks h2 {
   font-size: 2em;
   text: arial;
   color: pink;
@@ -19,7 +19,7 @@
   margin-top: 20px
 }
 
-.food p {
+.drinks p {
   font-size: 1em;
   text-align: center;
   font-family: cursive;
