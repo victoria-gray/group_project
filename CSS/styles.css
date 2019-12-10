@@ -34,3 +34,11 @@ body {
 .page-footer2 {
   background-color: white;
 }
+
+#googleMap {
+  overflow: hidden;
+}
+
+#mainbody {
+  padding: 0;
+}
