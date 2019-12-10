@@ -100,7 +100,12 @@
 }
 
 .book{
-  background-color: rgb(121, 186, 124);
+  padding-top: 50px;
+  background-image: url(../images/brunch3.jpg);
+
+
+
+  /* background-color: rgb(121, 186, 124); */
   /* background-color: rgb(43, 43, 43); */
 }
 
